@@ -1,0 +1,12 @@
+# 编译产物（用 build.ps1 现场生成，不入库）
+bin/
+obj/
+
+# 运行期设置与日志
+settings.ini
+*.log
+
+# 编辑器
+.vs/
+*.user
+*.suo
